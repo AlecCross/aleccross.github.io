@@ -17,6 +17,12 @@ const projectList = [
         link: "https://aleccross.github.io/Runner-Game-Unity3d/",
         image: "https://bn1301files.storage.live.com/y4mVH5W2fSZyw3wGmIAgtaJHkHDPJvayhT1G0Te6yb0KI3xFRozkqCQjqR57_cUQXiuhRN8QDuK2JtNp93jFUIfwOvkSnxE1po45wqxPOk2zO8FRInGI389DTpukpf3MrSmoJSmAJqH3A73zklj5GZhtQh3hlqqpPvu6p-yEE_yMcjHUZrRSwt4VVmgcriuFSPj?width=512&height=512&cropmode=none"
     },
+    {
+        title: "Runner Jungle",
+        description: "Demo project on the Unity 3D",
+        link: "https://aleccross.github.io/Runner-Game-Unity3d-v2/",
+        image: "https://bn1301files.storage.live.com/y4m9bVbNBStRSlgw6okZMC6D6HIBJ3PqhelH11MiV7hdWqyQpn7OOFGm9flPKiPMIZzGJkNPCAiHv59Kwz3Ft4QJBNjpCozZF1gAD2l4CtYTin8tD3wuTwRawSjiTVleLaOGqsZQOnJ6sJE74nQr8beNKTy71ji5bZgtz3PXDG0Y3VsNI40tbJdffwnTcDDdbbg?width=512&height=512&cropmode=none"
+    },
 ]
 
 export default projectList
